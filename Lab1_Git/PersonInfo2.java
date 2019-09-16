@@ -1,8 +1,8 @@
 public class PersonInfo2 {
 
-    public static String firstName = "Allan";
-    public static String lastName = "Picard";
-    public static int studentNo = 35534;
+    public static String firstName = "Daylen";
+    public static String lastName = "Birch";
+    public static int studentNo = 8611521;
     public static String description = "MacBook";
 
     public static void displayFr() {
@@ -26,3 +26,4 @@ public class PersonInfo2 {
         System.out.println(out);
     }
 }
+
