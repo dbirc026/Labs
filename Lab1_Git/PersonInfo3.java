@@ -1,8 +1,8 @@
 public class PersonInfo3 {
 
-    public static String firstName = "Liz";
-    public static String lastName = "Grégoire";
-    public static int studentNo = 173819;
+    public static String firstName = "Moumin";
+    public static String lastName = "Farah";
+    public static int studentNo = 300026540;
     public static String description = "Likes long walks along the beach";
 
     public static void displayFr() {
@@ -24,5 +24,6 @@ public class PersonInfo3 {
         out += SIConstants.EOL;
         
         System.out.println(out);
-    }
+    } 
 }
+
